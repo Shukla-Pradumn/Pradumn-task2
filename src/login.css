@@ -1,0 +1,12 @@
+.main{
+    margin-top: 4cm;
+    margin-left: 35%;
+    padding-top: 4cm;
+    padding-bottom: 4cm;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    width: fit-content;
+    background-color: #808080;
+    border: 3px solid green;
+    border-radius: 3rem;
+}

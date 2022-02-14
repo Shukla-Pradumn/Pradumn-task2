@@ -1,0 +1,25 @@
+
+.form{
+    background-image: url(https://img.freepik.com/free-photo/female-friends-out-shopping-together_53876-25041.jpg);
+    padding: 3cm;
+    /* height: 40%;
+    width: 50%; */
+    /* margin: auto; */
+    /* margin-top: 5cm; */
+    /* background-color: aqua; */
+    /* border: 3px solid gray;
+    border-radius: 3rem; */
+}
+.btn{
+    margin-left: 6cm;
+}
+.form-control{
+    width: 10cm;
+}
+.col-sm-2{
+    color:black;
+    font-weight: 800;
+}
+.login{
+    float: right;
+}

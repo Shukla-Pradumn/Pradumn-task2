@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "name": "Samsung",
+        "type": "Mobile Phone",
+        "price": 17000,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m127gzbgins/gallery/in-galaxy-m12-m127-sm-m127gzbgins-405433733?$720_576_PNG$",
+        "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m12-blue-64gb-sm-m127gzbgins/buy/?cid=in_pd_ppc_google_m12_none_samsunggalaxym12-eshop-bau-performancemax_20220114_15872702783---SM-M127GZBGINS---1ur-501350l-2022&gclid=Cj0KCQiAr5iQBhCsARIsAPcwROP6MdE6XUCYbIB0YlAOzXPSyY-jw8E-Pb95d6vw1DwI-tL2KsXL1I4aAnSNEALw_wcB"
+    },
+    {
+        "id":2,
+        "name": "Samsung",
+        "type": "Mobile Phone",
+        "price": 15000,
+        "image": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._SY606_.jpg",
+        "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m12-blue-64gb-sm-m127gzbgins/buy/?cid=in_pd_ppc_google_m12_none_samsunggalaxym12-eshop-bau-performancemax_20220114_15872702783---SM-M127GZBGINS---1ur-501350l-2022&gclid=Cj0KCQiAr5iQBhCsARIsAPcwROP6MdE6XUCYbIB0YlAOzXPSyY-jw8E-Pb95d6vw1DwI-tL2KsXL1I4aAnSNEALw_wcB"
+    },
+    {
+        "id":3,
+        "name": "Samsung",
+        "type": "Mobile Phone",
+        "price": 30000,
+        "image": "https://images.samsung.com/in/smartphones/galaxy-note20/buy/001-note20series-productimage-mo-720.jpg",
+        "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m12-blue-64gb-sm-m127gzbgins/buy/?cid=in_pd_ppc_google_m12_none_samsunggalaxym12-eshop-bau-performancemax_20220114_15872702783---SM-M127GZBGINS---1ur-501350l-2022&gclid=Cj0KCQiAr5iQBhCsARIsAPcwROP6MdE6XUCYbIB0YlAOzXPSyY-jw8E-Pb95d6vw1DwI-tL2KsXL1I4aAnSNEALw_wcB"
+    },
+    {
+        "id":4,
+        "name": "Samsung",
+        "type": "Mobile Phone",
+        "price": 15020,
+        "image": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._SY606_.jpg",
+        "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m12-blue-64gb-sm-m127gzbgins/buy/?cid=in_pd_ppc_google_m12_none_samsunggalaxym12-eshop-bau-performancemax_20220114_15872702783---SM-M127GZBGINS---1ur-501350l-2022&gclid=Cj0KCQiAr5iQBhCsARIsAPcwROP6MdE6XUCYbIB0YlAOzXPSyY-jw8E-Pb95d6vw1DwI-tL2KsXL1I4aAnSNEALw_wcB"
+    },
+    {
+        "id":5,
+        "name": "Samsung",
+        "type": "Mobile Phone",
+        "price": 9000,
+        "image": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155378-phones-review-hands-on-samsung-galaxy-s21-ultra-image1-luae09ici4.JPG",
+        "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m12-blue-64gb-sm-m127gzbgins/buy/?cid=in_pd_ppc_google_m12_none_samsunggalaxym12-eshop-bau-performancemax_20220114_15872702783---SM-M127GZBGINS---1ur-501350l-2022&gclid=Cj0KCQiAr5iQBhCsARIsAPcwROP6MdE6XUCYbIB0YlAOzXPSyY-jw8E-Pb95d6vw1DwI-tL2KsXL1I4aAnSNEALw_wcB"
+    },
+    {
+        "id":6,
+        "name": "Samsung",
+        "type": "Mobile Phone",
+        "price": 13000,
+        "image": "https://images.samsung.com/is/image/samsung/p5/africa_en/smartphones/galaxy-s9/images/gallery/galaxy-s9-plus_gallery-color_big-c1-06.jpg?$ORIGIN_JPG$",
+        "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m12-blue-64gb-sm-m127gzbgins/buy/?cid=in_pd_ppc_google_m12_none_samsunggalaxym12-eshop-bau-performancemax_20220114_15872702783---SM-M127GZBGINS---1ur-501350l-2022&gclid=Cj0KCQiAr5iQBhCsARIsAPcwROP6MdE6XUCYbIB0YlAOzXPSyY-jw8E-Pb95d6vw1DwI-tL2KsXL1I4aAnSNEALw_wcB"
+    },
+    {
+        "id":7,
+        "name": "Samsung",
+        "type": "Mobile Phone",
+        "price": 15000,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-n985fzn3mid/gallery/levant-galaxy-note20-ultra-n985-341057-sm-n985fzn3mid-thumb-530787898?$320_320_PNG$",
+        "url": "https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m12-blue-64gb-sm-m127gzbgins/buy/?cid=in_pd_ppc_google_m12_none_samsunggalaxym12-eshop-bau-performancemax_20220114_15872702783---SM-M127GZBGINS---1ur-501350l-2022&gclid=Cj0KCQiAr5iQBhCsARIsAPcwROP6MdE6XUCYbIB0YlAOzXPSyY-jw8E-Pb95d6vw1DwI-tL2KsXL1I4aAnSNEALw_wcB"
+    },
+    {
+        "id":8,
+        "name": "Jeans",
+        "type": "Clothes",
+        "price": 5000,
+        "image": "https://assets.ajio.com/medias/sys_master/root/20210601/WA47/60b52f5faeb269a9e3ce92ea/-473Wx593H-441115652-mediumblue-MODEL.jpg",
+        "url": "https://www.google.com/search?q=jeans+for+men&tbm=isch&ved=2ahUKEwiG_JTOmPj1AhWx_TgGHTi3BWAQ2-cCegQIABAA&oq=jeans&gs_lcp=CgNpbWcQARgBMgcIABCxAxBDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzoECAAQQzoHCCMQ7wMQJzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBOgUIABCABDoKCAAQsQMQgwEQQ1CQCljWGmC0K2gAcAB4AIABlQGIAdgGkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=I58GYsbeJbH74-EPuO6WgAY&bih=742&biw=719#imgrc=w01QV4ucZ2V-4M"
+    },
+    {
+        "id":9,
+        "name": "Jeans",
+        "type": "Clothes",
+        "price": 4000,
+        "image": "https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/12341/120912/Hirigin-2018-Jeans-Men-Fear-Of-Gold-Skinny-Jeans-Fashion-Biker-Steetwear-Distressed-Ripped-Denim-Pencil__06296.1539253708.jpg?c=2",
+        "url": "https://www.google.com/search?q=jeans+for+men&tbm=isch&ved=2ahUKEwiG_JTOmPj1AhWx_TgGHTi3BWAQ2-cCegQIABAA&oq=jeans&gs_lcp=CgNpbWcQARgBMgcIABCxAxBDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzoECAAQQzoHCCMQ7wMQJzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBOgUIABCABDoKCAAQsQMQgwEQQ1CQCljWGmC0K2gAcAB4AIABlQGIAdgGkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=I58GYsbeJbH74-EPuO6WgAY&bih=742&biw=719#imgrc=w01QV4ucZ2V-4M"
+    },
+    {
+        "id":10,
+        "name": "Jeans",
+        "type": "Clothes",
+        "price": 5000,
+        "image": "https://rukminim1.flixcart.com/image/332/398/kqb8pzk0/jean/x/w/x/36-jk2-mjrp-02-zaysh-original-imag4cenmcfyfhfk.jpeg?q=50",
+        "url": "https://www.google.com/search?q=jeans+for+men&tbm=isch&ved=2ahUKEwiG_JTOmPj1AhWx_TgGHTi3BWAQ2-cCegQIABAA&oq=jeans&gs_lcp=CgNpbWcQARgBMgcIABCxAxBDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzoECAAQQzoHCCMQ7wMQJzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBOgUIABCABDoKCAAQsQMQgwEQQ1CQCljWGmC0K2gAcAB4AIABlQGIAdgGkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=I58GYsbeJbH74-EPuO6WgAY&bih=742&biw=719#imgrc=w01QV4ucZ2V-4M"
+    },
+    {
+        "id":11,
+        "name": "Jeans",
+        "type": "Clothes",
+        "price": 5000,
+        "image": "https://5.imimg.com/data5/NK/AW/MY-20436704/mens-rough-jeans-500x500.jpg",
+        "url": "https://www.google.com/search?q=jeans+for+men&tbm=isch&ved=2ahUKEwiG_JTOmPj1AhWx_TgGHTi3BWAQ2-cCegQIABAA&oq=jeans&gs_lcp=CgNpbWcQARgBMgcIABCxAxBDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzoECAAQQzoHCCMQ7wMQJzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBOgUIABCABDoKCAAQsQMQgwEQQ1CQCljWGmC0K2gAcAB4AIABlQGIAdgGkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=I58GYsbeJbH74-EPuO6WgAY&bih=742&biw=719#imgrc=w01QV4ucZ2V-4M"
+    },
+    {
+        "id":12,
+        "name": "Jeans",
+        "type": "Clothes",
+        "price": 5000,
+        "image": "https://aeo.imgix.net/img/app/brands/ae/jeans/men/Skinny_11-12-2019.jpg?auto=format",
+        "url": "https://www.google.com/search?q=jeans+for+men&tbm=isch&ved=2ahUKEwiG_JTOmPj1AhWx_TgGHTi3BWAQ2-cCegQIABAA&oq=jeans&gs_lcp=CgNpbWcQARgBMgcIABCxAxBDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMgcIABCxAxBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzoECAAQQzoHCCMQ7wMQJzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBOgUIABCABDoKCAAQsQMQgwEQQ1CQCljWGmC0K2gAcAB4AIABlQGIAdgGkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=I58GYsbeJbH74-EPuO6WgAY&bih=742&biw=719#imgrc=w01QV4ucZ2V-4M"
+    }
+    
+]
